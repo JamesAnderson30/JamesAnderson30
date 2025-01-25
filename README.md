@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm James Anderson!
 
+I've worked with computers my entire life and I have a real passion for building and maintaining hardware and software. I'm eager to learn more skills about the industry and take part in designing more competent systems. I'm skilled with PHP, Javascript, C#, HTML and CSS, Python, PostgreSQL, MySql, SQL, and many libraries and systems associated with those languages. Including Flask, SQLAlchemy, React/Redux, Node, NPM, PipEnv.
+
+🔭 I’m currently working on ClassicRP, a blast-from the past and a renewel of a decades old hobby. 
+
+### Connect with me!
+
+<a href="https://www.linkedin.com/in/james-anderson-452823314/"><img src="https://img.icons8.com/?size=48&id=13930&format=png"/></a><a href="https://github.com/JamesAnderson30"><img src="https://img.icons8.com/?size=48&id=efFfwotdkiU5&format=png"/></a>
 <!--
 **JamesAnderson30/JamesAnderson30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
